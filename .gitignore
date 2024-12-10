@@ -11,6 +11,11 @@ __pycache__/
 *.xlsx
 data/
 
+
+!/models/
+!/reports/
+
+
 # Distribution / packaging
 .Python
 build/
