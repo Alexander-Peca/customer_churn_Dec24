@@ -11,6 +11,9 @@ __pycache__/
 *.xlsx
 data/
 
+# ignore all word documents
+
+*.docx
 
 !/models/
 !/reports/
